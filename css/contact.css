@@ -1,0 +1,30 @@
+@import "css/index.css";
+.contact-bg-image {
+    background-image: url("../images/contact.webp");
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.contact-image-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: inherit;
+    width: inherit;
+}
+.hero-contact{
+    margin-top: 20%;
+    padding-bottom: 20%;
+    text-align: center;
+}
+.hero-contact h2{
+    color: #fff;
+    font-size: 40px;
+}
+.negative-margin{
+    width:80%;
+    margin-top: -7%;
+}
+@media screen and (max-width:480px) {
+    input[type="text"]{
+        width: 100%;
+    }
+}

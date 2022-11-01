@@ -1,0 +1,49 @@
+@import "css/index.css";
+.about-bg-image {
+    background-image: url("../images/olf-program.webp");
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.about-header{
+    margin-top:15%;
+    color:white;
+    word-wrap: break-word;
+    
+}
+
+.title-paragraph{
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.title-h3{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 1.5rem;
+    
+}
+.h3-title {
+    padding-bottom: 20%;
+}
+/**/
+.negative-margin{
+    width:78%;
+    margin-top: -8%;
+    background-color: #fff;
+}
+.negative-margin h2{
+    font-size: 30px;
+    font-weight: 800;
+}
+/**/
+.our-united-state{
+    font-weight:700 ;
+}
+/**/
+.grey-color{
+    background-color: #eee;
+}
+.font-weight h2{
+    font-weight: 700;
+    
+}

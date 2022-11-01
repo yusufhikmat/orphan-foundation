@@ -1,0 +1,9 @@
+@import "css/index.css";
+@import "css/about.css";
+@import "css/project.css";
+.giving-bg-image {
+    background-image: url("../images/giving.webp");
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}

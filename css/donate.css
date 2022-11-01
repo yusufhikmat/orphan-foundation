@@ -1,0 +1,58 @@
+.donate-col{
+    border:2px solid #eee;
+    border-radius: 7px;
+    font-weight: 700;
+}
+.btn-amount{
+    border:1px solid #eee;
+    background-color: #fff;
+    padding:7px 30px;
+    line-height: 0.4rem;
+    margin:5px;
+    border-radius: 5px;
+}
+.donate-with{
+    border-radius: 20px;
+    font-weight: 700;
+}
+.donate-with-card{
+    border:2px solid navy;
+    color:navy;
+    font-weight: 700;
+}
+.donate-with-card:hover{
+    border:2px solid steelblue;   
+}
+.return-to-homepage a{
+    font-weight: 600;
+    text-decoration: none;
+}
+.return-to-homepage a:hover{
+    border-bottom: 2px solid navy;
+    color:navy;
+}
+.footer{
+    border-top: 1px solid #eee;
+    line-height: 1.5rem;
+}
+.footer-col{
+    display:flex;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: 700;
+}
+.footer-list li{
+    list-style: none;
+    display: inline;
+}
+.footer-list li a{
+    text-decoration: none;
+    color:black;
+    padding:0px 10px;
+}
+.footer-col2{
+    display:flex;
+    color:#222;
+    font-size: 14px;
+    padding-left: 10px;
+}

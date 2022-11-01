@@ -1,0 +1,18 @@
+@import "css/index.css";
+@import "css/about.css";
+@import "css/project.css";
+
+.fund-bg-image {
+    background-image: url("../images/fund.webp");
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.orange-background.orange-background-img{
+    font-size: 0px;
+}
+h1.orange-color{
+    font-size: 60px;
+    margin-top: 20px;
+    color:orangered;
+}
