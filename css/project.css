@@ -2,7 +2,7 @@
 @import "css/about.css";
 @import "css/news.css";
 
-.project-bg-image {
+.project-bg-image{
     background-image: url("../images/project1.webp");
     background-size: cover;
     width: 100%;
@@ -13,11 +13,7 @@
     height: inherit;
     width: inherit;
 }
-.hero-project{
-    background-color: orangered;
-    padding: 5% 5% 10% 20%;
-    color:#fff;
-}
+
 .project-title h2{
     font-weight: 700;
     font-size: 30px;

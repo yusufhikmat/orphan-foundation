@@ -8,6 +8,11 @@
     width: 100%;
     background-repeat: no-repeat;
 }
+.program {
+    background-color: orangered;
+    padding: 5% 5% 10% 20%;
+    color: #fff;
+}
 .program-project {
     background-color: orangered;
     padding: 18% 5% 10% 20%;
@@ -20,4 +25,17 @@
 }
 p.font-weight{
     font-weight: 800;
+}
+@media screen and (max-width:400px){
+    .project-bg-image {
+            padding-bottom: 20%;
+        }
+    
+        .col-6.program {
+            width: 100%;
+        }
+    
+        .program {
+            padding: 5%;
+        }
 }
