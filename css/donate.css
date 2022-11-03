@@ -1,6 +1,5 @@
-
 .donate-col{
-    border: 2px solid #eee;
+    border:2px solid #eee;
     border-radius: 7px;
     font-weight: 700;
 }
@@ -56,19 +55,4 @@
     color:#222;
     font-size: 14px;
     padding-left: 10px;
-}
-@media screen and (max-width:400px) {
-    .donate-div{
-        padding: 0 !important;
-    }
-    .col-6{
-        width:100%;
-        padding: 0 !important;
-    }
-    .donate-heading{
-        padding: 0 !important;
-    }
-    .footer-donate{
-        display: none;
-    }
 }

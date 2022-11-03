@@ -47,25 +47,3 @@
     font-weight: 700;
     
 }
-@media screen and (max-width:400px) {
-.about-header{
-    margin-top: 30%;
-    padding:10%;
-}
-.title-h3{
-    line-height: 2rem;
-}
-/**/
-.negative-margin{
-    width:100%;
-    margin-top: 0;
-    padding: 2rem !important;
-}
-/*our-united-state*/
-.padding-two{
-    padding: 2rem !important;
-}
-.padding-none{
-    padding: 0 !important;
-}
-}
